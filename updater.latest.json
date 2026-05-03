@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "notes": "",
   "pub_date": "2026-05-03T17:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFVZTGhnRjBrcXRhOVpGdEFxWVdaTVlIVTlkWi9nbS8rVHIwTEVrMm8wRFNoUUF4M1Y1cDR3a2VYSzhpQUxqSkVuMmlJanVHcTRZM2dyZmFxU29Wc0xEbnFpeVRMR2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODI1NDMwCWZpbGU6Rml2ZU1DIExhdW5jaGVyXzEuMC40X3g2NC1zZXR1cC5leGUKejQrajREblJsbVpiKzdCTTFjNDJRajV0TTB3WlN2ei9GeGFrSGFsTW84TEY3YUxNVjJ2ZkpKc1YwQ0FvRTFObGFaVjNFYzIxMnpjZFlXcFc5OHFiQXc9PQo=",
-      "url": "http://62.4.29.71/launcher/fivemc/releases/1.0.4/FiveMC-Launcher_1.0.4_x64-setup.exe"
+      "url": "http://62.4.29.71/launcher/fivemc/releases/1.0.5/FiveMC-Launcher_1.0.5_x64-setup.exe"
     }
   }
 }
